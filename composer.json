@@ -1,0 +1,15 @@
+{
+    "name": "view/poo2",
+    "autoload": {
+        "psr-4": {
+            "View\\Poo2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antho",
+            "email": "pred557000@gmail.com"
+        }
+    ],
+    "require": {}
+}
